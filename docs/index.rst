@@ -30,6 +30,7 @@ Modules
 * :ref:`managed_serviceaccount <ansible_collections.ocmplus.cm.managed_serviceaccount_module>` -- managed serviceaccount
 * :ref:`managed_serviceaccount_rbac <ansible_collections.ocmplus.cm.managed_serviceaccount_rbac_module>` -- managed-serviceaccount RBAC
 * :ref:`managedcluster_addon <ansible_collections.ocmplus.cm.managedcluster_addon_module>` -- managed cluster addon
+* :ref:`policyset <ansible_collections.ocmplus.cm.policyset_module>` -- Create/Update/Delete PolicySet, Policies, PlacementRule, and PlacementBinding
 
 
 .. seealso::
